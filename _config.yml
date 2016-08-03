@@ -6,9 +6,10 @@ color:
   saturation: 0.4162950434256345
   rhythmicContrast: 0.9550702220294625
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Zell Select
+title: Selected Hotels in Zell am See / Austria
