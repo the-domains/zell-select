@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.23333934415131807
 name: Zell Select
+navigation:
+  - name: 4 stars superior hotel tirolerhof zell am see
+    url: www-tirolerhof.co.at
+    type: external
 title: Selected Hotels in Zell am See / Austria
 description: Zell Select
