@@ -1,4 +1,3 @@
-layout_spectrum: 0.23333934415131807
 typography_spectrum: 0.15584946633316576
 color:
   brandStrength: 0.8235771174076945
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.23333934415131807
 name: Zell Select
 title: Selected Hotels in Zell am See / Austria
+description: Zell Select
