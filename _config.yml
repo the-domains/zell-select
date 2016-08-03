@@ -1,0 +1,14 @@
+layout_spectrum: 0.23333934415131807
+typography_spectrum: 0.15584946633316576
+color:
+  brandStrength: 0.8235771174076945
+  lightness: 0.8769490416161716
+  saturation: 0.4162950434256345
+  rhythmicContrast: 0.9550702220294625
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Zell Select
